@@ -1,0 +1,4 @@
+flask
+scenedetect
+opencv-python
+# FFmpeg to download and install separately, as it is not a Python package
